@@ -22,3 +22,9 @@
 [submodule "learnedcardinalities"]
 	path = learnedcardinalities
 	url = git@github.com:andreaskipf/learnedcardinalities.git
+[submodule "quicksel"]
+	path = quicksel
+	url = git@github.com:illinoisdata/quicksel.git
+[submodule "BayesCard"]
+	path = BayesCard
+	url = git@github.com:wuziniu/BayesCard.git
