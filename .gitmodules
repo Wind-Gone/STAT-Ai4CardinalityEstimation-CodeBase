@@ -28,3 +28,9 @@
 [submodule "BayesCard"]
 	path = BayesCard
 	url = git@github.com:wuziniu/BayesCard.git
+[submodule "neurocard"]
+	path = neurocard
+	url = git@github.com:neurocard/neurocard.git
+[submodule "LPCE"]
+	path = LPCE
+	url = git@github.com:DB-Benchmark/LPCE.git
