@@ -16,3 +16,9 @@
 [submodule "CEB"]
 	path = CEB
 	url = git@github.com:learnedsystems/CEB.git
+[submodule "naru"]
+	path = naru
+	url = git@github.com:naru-project/naru.git
+[submodule "learnedcardinalities"]
+	path = learnedcardinalities
+	url = git@github.com:andreaskipf/learnedcardinalities.git
