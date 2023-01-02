@@ -1,0 +1,18 @@
+[submodule "deepdb-public"]
+	path = deepdb-public
+	url = git@github.com:DataManagementLab/deepdb-public.git
+[submodule "FACE-A-Normalizing-Flow-based-Cardinality-Estimator"]
+	path = FACE-A-Normalizing-Flow-based-Cardinality-Estimator
+	url = https://github.com/DB-Benchmark/FACE-A-Normalizing-Flow-based-Cardinality-Estimator
+[submodule "iris_demo"]
+	path = iris_demo
+	url = https://github.com/tjluyao/iris_demo
+[submodule "UAE"]
+	path = UAE
+	url = https://github.com/DB-Benchmark/UAE
+[submodule "Learning-based-cost-estimator"]
+	path = Learning-based-cost-estimator
+	url = git@github.com:greatji/Learning-based-cost-estimator.git
+[submodule "CEB"]
+	path = CEB
+	url = git@github.com:learnedsystems/CEB.git
