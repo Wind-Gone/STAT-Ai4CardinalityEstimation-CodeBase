@@ -34,3 +34,6 @@
 [submodule "LPCE"]
 	path = LPCE
 	url = git@github.com:DB-Benchmark/LPCE.git
+[submodule "FactorJoin"]
+	path = FactorJoin
+	url = git@github.com:wuziniu/FactorJoin.git
