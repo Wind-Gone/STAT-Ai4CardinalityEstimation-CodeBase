@@ -37,3 +37,6 @@
 [submodule "FactorJoin"]
 	path = FactorJoin
 	url = git@github.com:wuziniu/FactorJoin.git
+[submodule "ALECE"]
+	path = ALECE
+	url = git@github.com:pfl-cs/ALECE.git
