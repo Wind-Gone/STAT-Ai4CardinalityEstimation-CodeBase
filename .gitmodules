@@ -40,3 +40,6 @@
 [submodule "ALECE"]
 	path = ALECE
 	url = git@github.com:pfl-cs/ALECE.git
+[submodule "learned-cardinality-estimation"]
+	path = learned-cardinality-estimation
+	url = git@github.com:postechdblab/learned-cardinality-estimation.git
